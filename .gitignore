@@ -1,0 +1,7 @@
+__pycache__/
+.DS_Store
+.trae/
+.vscode/
+开发指南/
+AreaScanCamera/
+General/
