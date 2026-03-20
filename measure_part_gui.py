@@ -219,7 +219,7 @@ class MainWindow(QMainWindow):
         self.h_cam = QDoubleSpinBox()
         self.h_cam.setRange(1.0, 100000.0)
         self.h_cam.setDecimals(1)
-        self.h_cam.setValue(500.0)
+        self.h_cam.setValue(363.68)
         self.h_cam.setSuffix(" mm")
 
         self.ratio_table = QDoubleSpinBox()
