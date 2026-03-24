@@ -1,3 +1,6 @@
+"""
+用帧差法去轮廓, 用于极度复杂的背景
+"""
 # -*- coding: utf-8 -*-
 import sys
 import os
