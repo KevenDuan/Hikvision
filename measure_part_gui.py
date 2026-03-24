@@ -1,3 +1,6 @@
+"""
+测量有高度零件的 GUI 版本
+"""
 import sys
 import ctypes
 
