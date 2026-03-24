@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+"""
+防遮挡检测矩形轮廓
+"""
 import sys
 import cv2
 import numpy as np
